@@ -5,7 +5,7 @@ phases:
   - echo Nothing to do in the install phase..
  pre_build:
   commands:
-  - echo Nothing to do in the pre build phase
+  - echo Nothing to do in the pre build...
  build:
   commands:
   - echo Build Started on `date`
